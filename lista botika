@@ -1,0 +1,2829 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/24ho.png" group-title="###NACIONALES###",### 24H OWL ###
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/4.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/la1sd.png" group-title="###NACIONALES###",LA 1
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/5.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/la1hd.png" group-title="###NACIONALES###",LA 1 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/6.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/la1hd.png" group-title="###NACIONALES###",LA 1 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/7.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/la2sd.png" group-title="###NACIONALES###",LA 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/8.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/la2hd.png" group-title="###NACIONALES###",LA 2 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/9.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/a3sd.png" group-title="###NACIONALES###",Antena 3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/10.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/a3hd.png" group-title="###NACIONALES###",Antena 3 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/11.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/a3hd.png" group-title="###NACIONALES###",Antena 3 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/12.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cuatrosd.png" group-title="###NACIONALES###",Cuatro
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/13.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cuatrohd.png" group-title="###NACIONALES###",Cuatro HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/14.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cuatrohd.png" group-title="###NACIONALES###",Cuatro FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/15.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/t5sd.png" group-title="###NACIONALES###",Telecinco
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/16.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/t5hd.png" group-title="###NACIONALES###",Telecinco HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/17.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/t5hd.png" group-title="###NACIONALES###",Telecinco FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/18.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sextasd.png" group-title="###NACIONALES###",La Sexta
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/19.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sextahd.png" group-title="###NACIONALES###",La Sexta HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/20.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sextahd.png" group-title="###NACIONALES###",La Sexta FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/21.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/csurhd.png" group-title="###NACIONALES###",Canal Sur HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/23.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/csurhd.png" group-title="###NACIONALES###",Canal Sur FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/24.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/andatv.png" group-title="###NACIONALES###",ANDALUCIA TV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/22.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/onda.png",ONDA-CADIZ
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/25.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tvgalicia.png" group-title="###NACIONALES###",TV galicia
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/28.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/telemadrid.png" group-title="###NACIONALES###",Telemadrid
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/27.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cmtv.png" group-title="###NACIONALES###",Castilla la Mancha TV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/26.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/etb1.png" group-title="###NACIONALES###",ETB 1
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/739.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/etb2.png" group-title="###NACIONALES###",ETB 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/740.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tv3.png" group-title="###NACIONALES###",TV3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/737.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/elcorreo.png",ElCorreoTV (Semana Santa Sevilla)
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/30.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/gh.png" group-title="###NACIONALES###",GRAN HERMANO VIP
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/31.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/gh.png" group-title="###NACIONALES###",GRAN HERMANO VIP camara 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/504.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepcine.png",####### OWL Series/Pelis #######
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/32.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cero.png" group-title="###CINE & SERIES###",#0
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/33.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cerofhd.png" group-title="###CINE & SERIES###",#0 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/34.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cerofhd.png" group-title="###CINE & SERIES###",#0 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/36.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cerofhd.png" group-title="###CINE & SERIES###",#0 FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/35.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/estrenossd.png" group-title="###CINE & SERIES###",Movistar Estrenos
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/37.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/estrenossd.png" group-title="###CINE & SERIES###",Movistar Estrenos HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/38.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/estrenossd.png" group-title="###CINE & SERIES###",Movistar Estrenos FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/39.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/disneysd.png" group-title="###CINE & SERIES###",Movistar Disney
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/116.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/disneysd.png" group-title="###CINE & SERIES###",Movistar Disney FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/117.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/accionsd.png" group-title="###CINE & SERIES###",Movistar Accion
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/40.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/accionsd.png" group-title="###CINE & SERIES###",Movistar Accion HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/41.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/accionsd.png" group-title="###CINE & SERIES###",Movistar Accion FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/1.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/comediasd.png" group-title="###CINE & SERIES###",Movistar Comedia
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/44.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/comediasd.png" group-title="###CINE & SERIES###",Movistar Comedia HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/45.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/comediasd.png" group-title="###CINE & SERIES###",Movistar Comedia FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/46.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dramasd.png" group-title="###CINE & SERIES###",Movistar Drama
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/42.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dramasd.png" group-title="###CINE & SERIES###",Movistar Drama HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/43.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dramasd.png" group-title="###CINE & SERIES###",Movistar Drama FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/2.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cinedochd.png" group-title="###CINE & SERIES###",Movistar CineDoc&Roll HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/48.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cinedochd.png" group-title="###CINE & SERIES###",Movistar CineDoc&Roll FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/47.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cineesp.png" group-title="###CINE & SERIES###",Movistar Cine Espanol
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/55.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cineesp.png" group-title="###CINE & SERIES###",Movistar Cine Espanol FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/56.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/seriesmania.png" group-title="###CINE & SERIES###",Movistar Seriesmania
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/52.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/seriesmania.png" group-title="###CINE & SERIES###",Movistar Seriesmania HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/53.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/seriesmania.png" group-title="###CINE & SERIES###",Movistar Seriesmania FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/54.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/serieshd.png" group-title="###CINE & SERIES###",Movistar Series
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/49.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/serieshd.png" group-title="###CINE & SERIES###",Movistar Series HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/50.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/serieshd.png" group-title="###CINE & SERIES###",Movistar Series FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/51.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/xtrm.png" group-title="###CINE & SERIES###",XTRM
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/74.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/xtrm.png" group-title="###CINE & SERIES###",XTRM FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/75.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tntsd.png" group-title="###CINE & SERIES###",TNT
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/67.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tnthd.png" group-title="###CINE & SERIES###",TNT HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/68.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tnthd.png" group-title="###CINE & SERIES###",TNT FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/69.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tcmhd.png" group-title="###CINE & SERIES###",TCM HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/70.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tcmhd.png" group-title="###CINE & SERIES###",TCM FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/71.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/syfysd.png" group-title="###CINE & SERIES###",SYFY
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/76.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/syfyhd.png" group-title="###CINE & SERIES###",SYFY HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/77.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/syfyhd.png" group-title="###CINE & SERIES###",SYFY FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/78.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sundancehd.png" group-title="###CINE & SERIES###",Sundance
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/88.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sundancehd.png" group-title="###CINE & SERIES###",Sundance FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/89.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/somos.png" group-title="###CINE & SERIES###",Somos
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/57.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/hollysd.png" group-title="###CINE & SERIES###",Hollywood
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/79.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/hollyhd.png" group-title="###CINE & SERIES###",Hollywood HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/80.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/hollyhd.png" group-title="###CINE & SERIES###",Hollywood FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/81.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxlsd.png" group-title="###CINE & SERIES###",Fox Life
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/61.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxlifehd.png" group-title="###CINE & SERIES###",Fox Life HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/62.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxlifehd.png" group-title="###CINE & SERIES###",Fox Life FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/63.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxsd.png" group-title="###CINE & SERIES###",Fox
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/64.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxhd.png" group-title="###CINE & SERIES###",Fox HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/65.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxhd.png" group-title="###CINE & SERIES###",Fox FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/66.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dark.png" group-title="###CINE & SERIES###",Dark
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/72.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dark.png" group-title="###CINE & SERIES###",Dark FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/73.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cosmosd.png" group-title="###CINE & SERIES###",Cosmopolitan
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/93.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cosmohd.png" group-title="###CINE & SERIES###",Cosmopolitan HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/94.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cosmohd.png" group-title="###CINE & SERIES###",Cosmopolitan FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/95.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/comedyhd.png" group-title="###CINE & SERIES###",Comedy central HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/59.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/comedyhd.png" group-title="###CINE & SERIES###",Comedy Central FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/60.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/calle13sd.png" group-title="###CINE & SERIES###",Calle 13
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/96.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/calle13hd.png" group-title="###CINE & SERIES###",Calle13 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/98.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/calle13hd.png" group-title="###CINE & SERIES###",Calle 13 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/97.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/axnwsd.png" group-title="###CINE & SERIES###",AXN White
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/82.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/axnwhd.png" group-title="###CINE & SERIES###",AXN White HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/83.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/axnwhd.png" group-title="###CINE & SERIES###",AXN White FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/84.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/axnsd.png" group-title="###CINE & SERIES###",AXN
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/85.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/axnhd.png" group-title="###CINE & SERIES###",AXN HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/86.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/axnhd.png" group-title="###CINE & SERIES###",AXN FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/87.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/amc.png" group-title="###CINE & SERIES###",AMC
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/90.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/amchd.png" group-title="###CINE & SERIES###",AMC HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/91.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/amchd.png" group-title="###CINE & SERIES###",AMC FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/92.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/a3series.png" group-title="###CINE & SERIES###",Atreseries
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/104.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/crimen.png" group-title="###CINE & SERIES###",Crimen   Investigacion
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/99.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/fdf.png" group-title="###CINE & SERIES###",FDF
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/101.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/energy.png" group-title="###CINE & SERIES###",Energy
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/109.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/divinity.png" group-title="###CINE & SERIES###",Divinity
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/110.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/para.png" group-title="###CINE & SERIES###",Paramount Channel
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/100.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mtves.png" group-title="###CINE & SERIES###",MTV Spain
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/102.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mtves.png" group-title="###CINE & SERIES###",MTV Spain FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/103.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nova.png" group-title="###CINE & SERIES###",Nova FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/106.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nova.png" group-title="###CINE & SERIES###",Nova
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/105.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/neox.png" group-title="###CINE & SERIES###",Neox FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/108.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/neox.png" group-title="###CINE & SERIES###",Neox
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/107.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tlnvelas.png" group-title="###CINE & SERIES###",TLnovelas
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/113.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepinf.png",####### OWL Infantil ########
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/115.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/disneychannel.png" group-title="###INFANTIL###",Disney Channel FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/120.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/disneyxd.png" group-title="###INFANTIL###",Disney XD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/119.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/disneyjr.png" group-title="###INFANTIL###",Disney JR
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/118.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/babytv.png" group-title="###INFANTIL###",Baby Tv
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/124.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nickjr.png" group-title="###INFANTIL###",Nick Jr
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/121.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nickjr.png" group-title="###INFANTIL###",Nick Jr FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/738.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nickhd.png" group-title="###INFANTIL###",Nickelodeon FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/123.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nicksd.png",Nickelodeon
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/122.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/clanhd.png" group-title="###INFANTIL###",Clan TVE FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/128.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/clansd.png" group-title="###INFANTIL###",Clan TVE
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/127.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/panda.png" group-title="###INFANTIL###",CanalPanda
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/125.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/boing.png" group-title="###INFANTIL###",Boing
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/126.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepfut.png" group-title="###LALIGA & CAMPEONES##",###LALIGA & CAMPEONES###
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/300.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/FUTREP.png" group-title="###LALIGA & CAMPEONES##",Futbol Replay
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/170.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/betimalo.png" group-title="###LALIGA & CAMPEONES##",BETIS TV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/176.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/realmadridtv.png" group-title="###LALIGA & CAMPEONES##",Real Madrid TV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/177.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sfctv.png" group-title="###LALIGA & CAMPEONES##",SevillaFC
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/180.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/barcatv.png" group-title="###LALIGA & CAMPEONES##",BarcaTV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/178.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/barcatv.png" group-title="###LALIGA & CAMPEONES##",BARCA FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/179.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/vamos.png" group-title="###LALIGA & CAMPEONES##",#VAMOS
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/171.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/vamos.png" group-title="###LALIGA & CAMPEONES##",#VAMOS HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/172.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/vamos.png" group-title="###LALIGA & CAMPEONES##",#VAMOS FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/175.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/vamos.png" group-title="###LALIGA & CAMPEONES##",#VAMOS FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/173.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/gol.png" group-title="###LALIGA & CAMPEONES##",GOL
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/181.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/gol.png" group-title="###LALIGA & CAMPEONES##",GOL HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/182.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/gol.png" group-title="###LALIGA & CAMPEONES##",GOL FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/183.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/gol.png" group-title="###LALIGA & CAMPEONES##",GOL FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/184.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/laligahd.png" group-title="###LALIGA & CAMPEONES##",LaLiga TV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/185.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/laligahd.png" group-title="###LALIGA & CAMPEONES##",LaLiga TV HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/186.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/laligahd.png" group-title="###LALIGA & CAMPEONES##",LaLiga TV FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/188.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/laligahd.png" group-title="###LALIGA & CAMPEONES##",LaLiga TV FHD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/189.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/laligahd.png" group-title="###LALIGA & CAMPEONES##",LaLiga TV FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/187.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIGA.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/190.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIGA.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/191.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIGA.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/194.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIGA.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga FHD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/193.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIGA.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/192.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIGUH.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 4K UHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/3837.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIGUH.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 4K UHD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/3838.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG1.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 1
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/195.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG1.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 1  FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/196.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG1.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 1 FHD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/197.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG2.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/198.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG2.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 2 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/199.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG2.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 2 FHD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/200.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG3.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/201.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG3.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 3 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/202.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG3.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 3 FHD##
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/203.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG4.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 4
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/204.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG4.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 4 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/205.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG5.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 5
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/206.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG5.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 5 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/207.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG6.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 6
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/208.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG6.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 6 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/209.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG7.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 7
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/210.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG7.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 7 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/211.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG8.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 8
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/212.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG9.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 9
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/213.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/MLIG10.png" group-title="###LALIGA & CAMPEONES##",Movistar LaLiga 10
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/214.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champhd.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/215.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champhd.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/216.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champhd.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones HD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/217.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champhd.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/3.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champhd.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones FHD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/219.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champhd.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/218.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ1.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 1
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/220.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ1.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 1 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/221.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ1.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 1 FHD#
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/222.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ1.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 1 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/580.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ2.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/223.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ2.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 2 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/581.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ2.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 2 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/225.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ3.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/226.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ3.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 3 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/582.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ3.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 3 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/227.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ4.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 4
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/228.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ4.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 4 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/583.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ4.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 4 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/229.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 5
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/230.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ6.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 6
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/231.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ7.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 7
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/232.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/champ8.png" group-title="###LALIGA & CAMPEONES##",M. Liga de Campeones 8
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/233.ts
+#EXTINF:-1 group-title="###LALIGA & CAMPEONES##",PRUEBAS FUTBOL2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/763.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepuhd.png",#### OWL UHD 4K ####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/234.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/UHD1byastra.png",UHD1 by ASTRA / HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/242.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sportuhd.png",sport tv 4k
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/243.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/raiuhd.png",RAI 4K ( pruebas )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/245.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/RTL_Logo_ab_dem_1._September_2017.png",RTL UHD 4K ( aleman )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/244.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepmotor.png",####MOTOR####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/299.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/motogpitalia.png" group-title="###DAZN Y MOTOR###",MotoGP (ServusTV)
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/283.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/DAZN%20spain.png" group-title="###DAZN Y MOTOR###",DAZN SPAIN ( A )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/280.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/DAZN%20spain.png" group-title="###DAZN Y MOTOR###",DAZN SPAIN ( B )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/281.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/DAZN%20spain.png" group-title="###DAZN Y MOTOR###",DAZN SPAIN ( C )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/282.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/DAZN%20spain.png" group-title="###DAZN Y MOTOR###",DAZN SPAIN ( D )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/700.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/DAZN%20spain.png" group-title="###DAZN Y MOTOR###",DAZN SPAIN ( E )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/3844.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mf1.png" group-title="###DAZN Y MOTOR###",M Formula 1
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/274.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mf1.png" group-title="###DAZN Y MOTOR###",M Formula 1 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/275.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mf1.png" group-title="###DAZN Y MOTOR###",M Formula 1 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/277.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mf1.png" group-title="###DAZN Y MOTOR###",M Formula 1 FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/276.ts
+#EXTINF:-1 group-title="###DAZN Y MOTOR###",RTL ( OPCION F1 )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/762.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepdep.png",####### OWL DEPORTES #######
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/246.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/esport3.png" group-title="###DEPORTES###",Esport3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/247.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/teledeporte.png" group-title="###DEPORTES###",Teledeporte
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/261.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tdephd.png" group-title="###DEPORTES###",Teledeporte FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/262.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mgolf.png" group-title="###DEPORTES###",Movistar Golf
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/252.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mgolf.png" group-title="###DEPORTES###",Movistar Golf FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/253.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eurosportsd.png" group-title="###DEPORTES###",Eurosport 1
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/254.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eurosportsd.png" group-title="###DEPORTES###",Eurosport 1 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/255.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eurosportsd.png" group-title="###DEPORTES###",Eurosport 1 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/257.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eurosporthd.png" group-title="###DEPORTES###",Eurosport 1 FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/256.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eurosport2.png" group-title="###DEPORTES###",Eurosport 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/258.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eurosport2.png" group-title="###DEPORTES###",Eurosport 2 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/260.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eurosport2.png" group-title="###DEPORTES###",Eurosport 2 FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/259.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/deportes.png" group-title="###DEPORTES###",M Deportes
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/248.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/deportes.png" group-title="###DEPORTES###",M Deportes HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/249.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/deportes.png" group-title="###DEPORTES###",M Deportes FHD low bitrate
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/250.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/deportes.png" group-title="###DEPORTES###",M Deportes FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/251.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mdep1.png" group-title="###DEPORTES###",DEPORTE 1 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/266.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/mdep1.png" group-title="###DEPORTES###",DEPORTE 1 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/265.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi2.png" group-title="###DEPORTES###",DEPORTE 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/267.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi2.png" group-title="###DEPORTES###",DEPORTE 2 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/1798.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi3.png" group-title="###DEPORTES###",DEPORTE 3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/268.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi3.png" group-title="###DEPORTES###",DEPORTE 3 FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/1799.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi4.png" group-title="###DEPORTES###",DEPORTE 4
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/269.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi5.png" group-title="###DEPORTES###",DEPORTE 5
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/270.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi6.png" group-title="###DEPORTES###",DEPORTE 6
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/271.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/multi7.png" group-title="###DEPORTES###",DEPORTE 7
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/272.ts
+#EXTINF:-1 group-title="###AFICIONES###",###AFICIONES###
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/301.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sol.png" group-title="###AFICIONES###",SOLMUSICA
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/749.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/ubeat.png" group-title="###AFICIONES###",U-BEAT ( juegos online )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/169.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/torossd.png" group-title="###AFICIONES###",Toros
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/165.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/torossd.png" group-title="###AFICIONES###",Toros HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/166.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/torossd.png" group-title="###AFICIONES###",Toros FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/167.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cazavision.png" group-title="###AFICIONES###",CazaVision
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/162.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/iberalia.png" group-title="###AFICIONES###",Iberalia TV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/161.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cazpessd.png" group-title="###AFICIONES###",Caza y Pesca
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/158.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cazpessd.png" group-title="###AFICIONES###",Caza y Pesca HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/159.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cazpessd.png" group-title="###AFICIONES###",Caza y Pesca FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/160.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/kombat.png" group-title="####EXTRANJEROS####",Kombat Sport
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/263.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/ufcnetwork.png" group-title="####EXTRANJEROS####",UFC PASS
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/264.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepdocs.png",######### OWL Documentales ##########
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/129.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/viajarsd.png" group-title="###DOCUMENTALES###",Viajar
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/151.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/viajarsd.png" group-title="###DOCUMENTALES###",Viajar FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/152.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/ten.png" group-title="###DOCUMENTALES###",TEN
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/135.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/odiseahd.png" group-title="###DOCUMENTALES###",Odisea
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/149.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/odiseahd.png" group-title="###DOCUMENTALES###",Odisea FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/150.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/natgeosd.png" group-title="###DOCUMENTALES###",National Geographic
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/136.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/natgeosd.png" group-title="###DOCUMENTALES###",National Geographic HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/137.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/natgeosd.png" group-title="###DOCUMENTALES###",National Geographic FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/138.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/natgeowsd.png" group-title="###DOCUMENTALES###",Nat Geo Wild
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/139.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/natgeowsd.png" group-title="###DOCUMENTALES###",Nat Geo Wild HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/140.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/natgeowsd.png" group-title="###DOCUMENTALES###",Nat Geo Wild FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/141.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/DKiss.png" group-title="###DOCUMENTALES###",DKISS
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/134.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/megasd.png" group-title="###DOCUMENTALES###",Mega
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/133.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/megasd.png" group-title="###DOCUMENTALES###",Mega FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/132.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/historiasd.png" group-title="###DOCUMENTALES###",Historia
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/145.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/historiasd.png" group-title="###DOCUMENTALES###",Historia FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/146.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dmax.png" group-title="###DOCUMENTALES###",DMAX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/144.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/discoverysd.png" group-title="###DOCUMENTALES###",Discovery
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/142.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/discoverysd.png" group-title="###DOCUMENTALES###",Discovery FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/143.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/decasa.png" group-title="###DOCUMENTALES###",DeCasa
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/156.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/decasa.png" group-title="###DOCUMENTALES###",DeCasa FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/157.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/cocina.png" group-title="###DOCUMENTALES###",Canal Cocina
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/153.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/blazehd.png" group-title="###DOCUMENTALES###",BLAZE
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/147.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/blazehd.png" group-title="###DOCUMENTALES###",BLAZE FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/148.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bemadhd.png" group-title="###DOCUMENTALES###",BEMAD HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/130.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bemadhd.png" group-title="###DOCUMENTALES###",BEMAD FHD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/131.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bemadhd.png" group-title="###DOCUMENTALES###",####EXTRANJEROS####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/575.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/telemundo.png" group-title="####EXTRANJEROS####",Telemundo
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/2677.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/caracol.png" group-title="####EXTRANJEROS####",Caracol
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/2678.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nfl.png" group-title="####EXTRANJEROS####",NFL ( USA )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/750.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/nba.png" group-title="####EXTRANJEROS####",NBA TV
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/555.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sporttv1.png" group-title="####EXTRANJEROS####",SPORT TV 1 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/556.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sporttv2.png" group-title="####EXTRANJEROS####",SPORT TV 2 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/557.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sporttv3.png" group-title="####EXTRANJEROS####",SPORT TV 3 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/558.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sporttv4.png" group-title="####EXTRANJEROS####",SPORT TV 4 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/559.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sporttv5.png" group-title="####EXTRANJEROS####",SPORT TV 5
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/560.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sky1.png" group-title="####EXTRANJEROS####",Sport 1 HD ( aleman )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/570.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sky2.png" group-title="####EXTRANJEROS####",Sport 2 HD  ( aleman )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/571.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sky3.png" group-title="####EXTRANJEROS####",Sport 3 HD  ( aleman )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/572.ts
+#EXTINF:-1 group-title="####EXTRANJEROS####",ELEVEN SPORTS 6 HD PT
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/566.ts
+#EXTINF:-1 group-title="####EXTRANJEROS####",ELEVEN SPORTS 5 HD PT
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/565.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eleven4.png" group-title="####EXTRANJEROS####",ELEVEN SPORTS 4 HD PT
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/564.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eleven3.png" group-title="####EXTRANJEROS####",ELEVEN SPORTS 3 HD PT
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/563.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eleven2.png" group-title="####EXTRANJEROS####",ELEVEN SPORTS 2 HD PT
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/562.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/eleven1.png" group-title="####EXTRANJEROS####",ELEVEN SPORTS 1 HD PT
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/561.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dazn2.png" group-title="####EXTRANJEROS####",DAZN 2 ( aleman )
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/573.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/dazn1.png" group-title="####EXTRANJEROS####",DAZN 1 (Aleman)
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/574.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxlat3.png" group-title="####EXTRANJEROS####",FOX SPORTS 3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/694.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxlat2.png" group-title="####EXTRANJEROS####",FOX SPORTS 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/695.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/foxlat1.png" group-title="####EXTRANJEROS####",FOX SPORTS
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/696.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/Espn3.png" group-title="####EXTRANJEROS####",ESPN 3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/698.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/espn2.png" group-title="####EXTRANJEROS####",ESPN 2
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/699.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/espn1.png" group-title="####EXTRANJEROS####",ESPN
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/697.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/boxnation.png" group-title="###AFICIONES###",Boxnation (Boxeo)
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/689.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/beinus.png" group-title="####EXTRANJEROS####",BEINSPORTS USA
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/690.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/beinlatino.png" group-title="####EXTRANJEROS####",BEIN LATINO
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/691.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/tyc.png" group-title="####EXTRANJEROS####",RED-BULL
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/693.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein1.png" group-title="####EXTRANJEROS####",beIN Sports 1 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/736.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein2.png" group-title="####EXTRANJEROS####",beIN Sports 2 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/734.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein3.png" group-title="####EXTRANJEROS####",beIN Sports 3
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/733.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein4.png" group-title="####EXTRANJEROS####",beIN Sports 4 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/732.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein5.png" group-title="####EXTRANJEROS####",beIN Sports 5 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/731.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein6.png" group-title="####EXTRANJEROS####",beIN Sports 6 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/730.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein7.png" group-title="####EXTRANJEROS####",beIN Sports 7 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/729.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein8.png" group-title="####EXTRANJEROS####",beIN Sports 8 HD
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/728.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein9.png" group-title="####EXTRANJEROS####",beIN Sports 9
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/727.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/bein10.png" group-title="####EXTRANJEROS####",beIN Sports 10
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/735.ts
+#EXTINF:-1 tvg-logo="http://crypto-rslcm-epg.ddns.me/iconos/sepxx.png",######## OWL ADULTOS ###########
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/284.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO1 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/285.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO2 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/286.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO3  XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/287.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO4 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/288.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO5 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/289.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO6 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/290.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO7 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/291.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO8 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/292.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO9 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/293.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO10 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/294.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO11 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/295.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO12 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/296.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",ADULTO13 XXX
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/297.ts
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1807/newdesignillustrations180709030/105255624-xxx-adult-seal-print-with-corroded-texture-rubber-seal-imitation-has-circle-medal-shape-and-contains.jpg" group-title="###ADULTOS###",####VIDEOCLUB#####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/357.ts
+#EXTINF:-1 group-title="--ESTRENOS--",Un verano en Ibiza
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3864.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",The Whiskey Bandit
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3867.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Historia de un matrimonio
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3865.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Ad Astra
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3868.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",A 47 Metros 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3866.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Una Intima Conviccion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3863.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Luz de mi vida
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3862.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Let's Dance
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3860.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Caso Willingham
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3861.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Venganza Bajo Cero
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3859.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Una Cenicienta moderna Un deseo de Navidad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3858.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",The Report
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3856.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Peel
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3852.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",It Capitulo 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3855.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Arter De Vivir Bajo La Lluvia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3854.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Dos padres en apuros
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3857.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Atlantique
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3853.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",The Domestics
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3850.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Navidad Loca Navidad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3851.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Irlandes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3849.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Brittany Runs a Marathon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3848.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Alcanzando Tu Sueño
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3847.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Padre No Hay Mas Que uno
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3839.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Luchando por un sueño
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3842.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Los Bando
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3843.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El caballero de la Navidad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3840.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Como la vida misma
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3841.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Yo Soy Dolemite
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2884.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Yesterday
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2883.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Voces ocultas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2882.mkv
+#EXTINF:-1 group-title="--ESTRENOS--", 3 de marzo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2881.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Un hombre fiel
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2880.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Un atardecer en la Toscana
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2879.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Ugly Dolls
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2878.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Tu Mejor Amigo 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2877.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Toy Story 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2876.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Tolkien
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2875.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Todo por Grace
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2874.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Timadoras compulsivas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2873.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Terra Willy Planeta Desconocido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2872.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Te presento a Sofia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2871.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Superempollonas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2870.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Suburbanos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2869.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Stuber Express
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2868.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Spider-Man Lejos de Casa
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2867.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Sombra
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2866.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Serpiente de cascabel
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2865.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Serenity
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2864.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Senderos de honor
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2863.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Salvando a Zoe
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2862.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Safari Por Navidad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2861.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Pasados por agua
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2860.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Paradise Beach
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2859.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Oreina
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2858.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Noches blancas Tres historias de amor inolvidables
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2857.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Necesitamos tu voto
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2856.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Muñeco Diabolico
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2855.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Mr. Link. El origen perdido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2854.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Midsommar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2853.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Mentes brillantes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2852.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Men in Black International
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2851.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Mejor que nunca
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2850.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Los muertos no mueren
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2849.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Los Japon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2846.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Los descendientes 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2847.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Los días que vendrán
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2848.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Lo nunca visto
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2845.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La viuda
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2843.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La trampa de la araña
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2842.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La mujer de la montaña
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2840.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La música del terremoto
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2841.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La Influencia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2835.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La importancia de llamarse Oscar Wilde
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2839.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La estrategia del pequines
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2838.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La corresponsal
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2837.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La Cancion De Mi Padre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2834.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La Caida Del Imperio Americano
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2833.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La biblioteca de los libros rechazados
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2836.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",La última lección
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2844.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Klaus (2019)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2832.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Kin
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2831.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Killer Kate
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2830.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",John Wick Capítulo 3 - Parabellum
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2828.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Invisible
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2827.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Inuyashiki
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2826.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Infiltrado en Miami
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2825.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Infierno Bajo El Agua
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2824.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Hurricane Escuadrón 303
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2823.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Hotel Artemis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2822.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Heridas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2821.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Fractura
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2820.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Fast And Furious 2019
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2819.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Extra ordinario
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2818.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Estafadores
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2817.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Enemigos Intimos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2816.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",En la hierba alta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2815.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Eli
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2814.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Vendedor De Tabaco
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2807.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El sotano de Ma
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2813.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Soldado Perdido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2806.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El sol tambien es una estrella
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2812.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Secreto De Las Abejas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2805.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Rey Leon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2804.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El permiso
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2811.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El lado siniestro de la luna
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2810.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Final De La Verdad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2803.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Emperador De Paris
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2802.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El despertar de Motti Wolkenbruch
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2809.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El Camino Una Película De Breaking Bad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2801.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",El año de la plaga
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2808.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Driven el origen de la leyenda
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2800.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Dobles vidas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2799.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Dinero sucio
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2798.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Diecisiete
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2797.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Desaparecida (Angel of Mine)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2796.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Corrupcion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2795.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Como pez fuera del agua
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2794.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Cold Blood Legacy
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2793.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Casi imposible
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2792.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Buenos vecinos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2791.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Antes de la quema
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2790.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Annabel Vuelve a Casa
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2789.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Angry Birds 2 La pelicula
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2788.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",American Son
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2787.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Aladdin
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2786.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Al agua gambas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2785.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",Acuarela
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2784.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",A dos metros de ti
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2783.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",30 Miles from Nowhere
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2782.mkv
+#EXTINF:-1 group-title="--ESTRENOS--",10 días sin mamá
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2781.mkv
+#EXTINF:-1 group-title="###INFANTIL###",####INFANTIL####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/437.ts
+#EXTINF:-1 group-title="--INFANTILES--",Zootropolis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3183.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Zipi.y.Zape.y.la.isla.del.capitan
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3182.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Zathura.Una.Aventura.Espacial
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3181.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Winnie.the.Pooh.Una.primavera.con.Rito.(2004)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3180.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Vaya Bichos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3179.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Vaiana
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3178.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ups.Donde.Esta.Noe
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3177.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Up
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3176.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Un.Futuro.Muy.Presente
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3175.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Turbo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3174.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Trolls
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3173.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Toy.Story.(1995)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3172.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Toy Story El Tiempo Perdido (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3171.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Toy Story 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3170.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Toy Story 2(1999)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3169.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tortugas.Ninja
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3168.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tom.y.Jerry.el.Dragon.Perdido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3167.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tom.y.Jerrry.Misión.espía
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3166.mkv
+#EXTINF:-1 group-title="--INFANTILES--",tom.jerry.regreso.al.mundo.de.oz.2016
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3192.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tom y Jerry & Charlie y la Fábrica de Chocolate
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3165.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tiana.Y.El.Sapo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3164.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Thomas.And.Friends.La.Gran.Carrera
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3163.mkv
+#EXTINF:-1 group-title="--INFANTILES--",The Jungle Bunch: La panda de la selva
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3162.mkv
+#EXTINF:-1 group-title="--INFANTILES--",The Goonies
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3161.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Teen Titans Go! La película
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3160.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tarzan.Clasicos.Disney
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3158.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tarzan.(2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3157.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tarzan
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3159.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Tadeo.Jones.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3156.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Super Mario Bros
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3154.mkv
+#EXTINF:-1 group-title="--INFANTILES--", un héroe muy especial
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3153.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Stuart Little 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3151.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Stuart Little
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3152.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Strange.Magic
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3150.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Spirit.el.Corcel.Indomable
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3149.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Spider-Man Un nuevo universo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3148.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Space.Dogs.Aventura.En.El.Espacio
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3147.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Solo.En.Casa.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3145.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Solo.En.Casa
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3146.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Smallfoot
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3144.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Siempre.a.tu.lado.(Hachiko).(2009)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3143.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Shrek.Tercero
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3141.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Shrek.4.Felices.Para.Siempre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3140.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Shrek.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3139.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Shrek
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3142.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Shin.Chan.El.Secreto.Esta.En.La.Salsa
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3138.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Sherlock Gnomes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3137.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Se armo el Belen [1080p][Latino][wWw.EliteTorrent.BiZ]
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3136.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Scooby-Doo.Duelo.En.El.Viejo.Oeste
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3135.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Scooby-Doo.And.WWE.La.Maldicion.Del.Demonio.Veloz
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3134.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Súper Papá Oso
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3155.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Sahara.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3133.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Robosapien:Rebooted
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3132.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Robin.Hood
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3131.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Rio.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3130.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ribbit.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3129.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ratonpolis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3128.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ratatouille.2007
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3127.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Rango
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3126.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Rabbit School
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3125.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Polar.Express
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3124.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pokemon.Te.elijo.a.ti
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3123.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pokemon.La.Pelicula.Hoopa.Y.Un.Duelo.Historico
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3122.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pocahontas.DVDrip
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3121.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pocahontas.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3120.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pocahontas.1995
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3119.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pinocho
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3118.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Phineas.Y.Ferb.Star.Wars
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3117.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Peter.Y.El.Dragon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3116.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Peter.Pan.1953
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3115.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Peter Rabbit
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3114.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pesadillas 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3113.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pesadilla Antes de Navidad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3112.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Patrulla.Fantasma
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3111.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Parchís El documental
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3110.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Pancho.El.Perro.Millonario.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3109.mkv
+#EXTINF:-1 group-title="--INFANTILES--",pan.viaje.a.nunca.jamas.2015
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3191.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Oz.Un.mundo.de.fantasia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3108.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Orm.en.el.reino.de.las.nieves.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3107.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Operacion.Cacahuete.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3106.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Operacion.Artico
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3105.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Nos vemos ayer
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3104.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Norman.Del.Norte
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3103.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Noche.en.el.Museo.El.Secreto.Del.Faraon.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3102.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Noche.En.El.Museo.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3100.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Noche.En.El.Museo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3101.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Noche en el Museo 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3098.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Noche en el Museo 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3097.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Noche en el Museo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3099.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ninja.Turtles.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3096.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Nicky.La.Aprendiz.De.Bruja
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3095.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Navidades.con.los.Storybots
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3094.mkv
+#EXTINF:-1 group-title="--INFANTILES--",My.Little.Pony.La.pelicula
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3093.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mulan.1998
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3092.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mulan.(2003)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3091.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mowgli La leyenda de la Selva
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3090.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mortadelo.y.Filemon.Contra.Jimmy.El.Cachondo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3089.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Monstruos.University
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3088.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Monstruos.SA.(2001)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3087.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Monster.Trucks.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3086.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Monster.High.Monstruos.Camara.Accion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3085.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Minuscule.El.valle.de.las.hormigas.perdidas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3084.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mi.Amigo.El.Gigante
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3083.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mi pequeno dinosaurio
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3081.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mi pequeño dinosaurio
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3082.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Merlin.el.encantador.(1963)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3080.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Matilda
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3079.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mascotas 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3077.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mascotas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3078.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Mara.y.el.se�or.del.fuego
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3076.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Malefica.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3075.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Madagascar.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3073.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Madagascar 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3072.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Madagascar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3074.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Luis y los alienigenas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3071.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los.Pitufos.La.Aldea.Escondida.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3068.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los.Minions
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3067.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los.cazafantasmas.II.(1989)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3070.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los.alpinistas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3069.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los vigilantes de Malibu
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3066.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Simpsons - La Pelicula
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3061.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Rescatadores en Cangurolandia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3060.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Picapiedra en Viva Rock Vegas 2000
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3059.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Increibles
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3058.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Goonies
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3057.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los futbolisimos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3065.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Descendientes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3056.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Croods
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3055.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los concos y el valle de los dinosaurios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3064.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los cinco y la isla del Tesoro
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3063.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los cazamonstruos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3062.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Boxtrolls 2014
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3054.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Los Aristogatos (1970)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3053.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Lo.Mejor.De.Pluto
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3052.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Lluvia.de.Albondigas.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3051.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Little Hero y los amuletos mágicos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3050.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Lilo.y.Stitch
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3049.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Leo da Vinci Mision Mona Lisa
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3048.mkv
+#EXTINF:-1 group-title="--INFANTILES--",LEGO.Friends.Girlz.4.Life
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3013.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Lego.DC.Super.Heores.La.Liga.De.La.Justicia.La.Invasion.De.Brainiac
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3047.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Lego.DC.Comics.La.Liga.de.la.Justicia:Fuga.de.Gotham
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3046.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Lego.Batman.El.Regreso.De.Los.Superheroes.De.DC
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3045.mkv
+#EXTINF:-1 group-title="--INFANTILES--",LEGO DC Super Heroes: Aquaman: la ira de Atlantis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3012.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Las.tortugas.ninja
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3044.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Las.Aventuras.De.Tadeo.Jones
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3042.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Las.aventuras.de.Peabody.y.Sherman
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3043.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.vida.de.Calabacin
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3041.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Sirenita
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3038.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Primera.Navidad.De.Mariah.y.Jack
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3037.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Patrulla.Canina.Conoce.A.Everest
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3036.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Novia.Cadaver
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3035.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Leyenda.De.Sarila
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3034.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Isla.De.Los.Monstruos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3033.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.historia.interminable
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3040.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Guardia.Del.Leon.El.Regreso.Del.Rugido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3032.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.familia.Adams.(ENGLIS)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3039.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Cenicienta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3031.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Bella.y.la.Bestia.2017
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3029.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Bella.y.la.Bestia.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3028.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Bella.y.la.Bestia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3030.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La.Bella.Durmiente
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3027.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La Sirenita [HDRip][AC3]
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3018.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La patrulla canina Rescates en la selva
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3026.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La nueva generacion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3025.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La novia cadaver
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3024.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La muerte de Superman
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3023.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La Mecanica del Corazon 2015
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3017.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La leyenda del martillo de Thor
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3022.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La LEGO película 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3016.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La Gran Aventura De Los Lunnis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3015.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La casa del reloj en la pared
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3021.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La casa de Mickey Mouse - Minnie-cienta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3020.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La alfombra magica
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3019.mkv
+#EXTINF:-1 group-title="--INFANTILES--",La Abeja Maya Los Juegos De La Miel
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3014.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Kung.Fu.Panda.3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3011.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Kung.Fu.Panda.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3010.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Kung-Fu.Panda
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3009.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Kubo.Y.Las.Dos.Cuerdas.Magicas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3008.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Kim Possible
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3007.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Khumba
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3006.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Jumanji
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3005.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Jack.el.Cazagigantes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3004.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Isla de perros
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3003.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ice.Age.En.Busca.Del.Huevo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3002.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ice.Age.El.Gran.Cataclismo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3001.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ice.Age.4.La.formacion.de.los.continentes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3000.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ice.Age.2.El.Deshielo.2006
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2999.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ice Age.2002
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2998.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ice Age 3 .el .origen .de.los.dinosaurios.2009
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2997.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Hotel.Transilvania.1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2996.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Hotel transilvania 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2995.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Hotel Transilvania 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2994.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Home.Hogar.Dulce.Hogar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2993.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Hey.Arnold.Una.peli.en.la.jungla
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2992.mkv
+#EXTINF:-1 group-title="--INFANTILES--",herbie
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3189.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Heidi
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2991.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Gru.Mi.Villano.Favorito
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2990.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Gru.3.Mi.Villano.Favorito
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2989.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Gru.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2988.mkv
+#EXTINF:-1 group-title="--INFANTILES--",gigantes.la leyenda.de.tombatossals.2013
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3188.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Frozen.El.Reino.del.Hielo.(2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2987.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ferdinand
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2986.mkv
+#EXTINF:-1 group-title="--INFANTILES--",ET.El.Extraterrestre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2959.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Entrenar.Tu.Dragon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2985.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Enredados
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2984.mkv
+#EXTINF:-1 group-title="--INFANTILES--",En.Busca.Del.valle.Encantado.XIV
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2983.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Emoji.La.Pelicula
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2982.mkv
+#EXTINF:-1 group-title="--INFANTILES--",elena.y.el.secreto.de.avalor.2016
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3187.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Elena y el secreto de Avalor
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2981.mkv
+#EXTINF:-1 group-title="--INFANTILES--",el.viaje.de.arlo.2015
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3186.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.septimo.enanito
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2980.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.Rey.Leon.3.Hakuna.Matata
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2975.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.Reino.De.Los.Monos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2974.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.origen.de.los.guardianes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2979.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.Lince.Perdido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2973.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.Libro.De.La.Vida.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2972.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.jardin.de.las.palabras
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2978.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.hogar.de.Miss.Peregrine.para.ni�os.peculiares2016
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2977.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.Ataque.A.Los.Titanes.El.Arco.Y.La.Flecha.Escarlatas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2971.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El.aprendiz.de.Papa.Noel.y.el.copo.de.nieve.magico
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2976.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El Secreto Del Cofre De Midas 2014
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2965.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El Rey Leon.(1994)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2964.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El reino de las ranas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2970.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El principito
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2969.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El parque magico
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2968.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El Oso Yogui
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2963.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El Niño Que Pudo Ser Rey
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2962.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El Medallon Perdido 2013
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2961.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El malvado zorro feroz
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2967.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El hijo de bigfoot
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2966.mkv
+#EXTINF:-1 group-title="--INFANTILES--",El Grinch
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2960.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Dumbo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2958.mkv
+#EXTINF:-1 group-title="--INFANTILES--",del.reves
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3185.mkv
+#EXTINF:-1 group-title="--INFANTILES--",DBZ.La.Resurreccion.de.Freezer
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2957.mkv
+#EXTINF:-1 group-title="--INFANTILES--",D3sc3nd13nt3s2.HDR.bibi
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2956.mkv
+#EXTINF:-1 group-title="--INFANTILES--", las mascotas de la Reina
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2955.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Con.La.Magia.En.Los.Zapatos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2954.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Como.Entrenar.A.Tu.Dragon.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2953.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Como entrenar a tu dragon 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2952.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Coco
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2951.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ciudad.Arcoiris
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2950.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cig�e�as(2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2949.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Chispita y sus gorilas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2948.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Charlie.Y.La.Fabrica.De.Chocolate
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2947.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cenicienta.(2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2946.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cazafantasmas.2016
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2945.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cavernicola
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2944.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Casper
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2943.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cars.3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2941.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cars.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2940.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cars
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2942.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Carlitos.Y.Snoopy.La.Pelicula.De.Peanuts
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2939.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Capitan.Calzoncillos.su.primer.peliculon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2938.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Caperucita.Roja.Red.Riding.Hood.(2011)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2937.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Cantajuego.navideno
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2936.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Canta.(2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2935.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Canta-juego.viva.mi.planeta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2934.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Canta!
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2933.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Campanilla.y.La.Leyenda.De.La.Bestia.(2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2932.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Campanilla.Y.La.Leyenda.De.La.Bestia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2931.mkv
+#EXTINF:-1 group-title="--INFANTILES--", Hadas y Piratas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2930.mkv
+#EXTINF:-1 group-title="--INFANTILES--", El Secreto De Las Hadas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2929.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Campamento Alienigena
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2928.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Caminando.entre.dinosaurios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2927.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Buzz.Lightyear.Comado.Estelar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2926.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Buscando.A.Nemo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2925.mkv
+#EXTINF:-1 group-title="--INFANTILES--",buscando.a.dory.2016
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3184.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Bob.Esponja.El.Mundo.Guante.Por.Siempre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2924.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Bob.Esponja.Dias.De.Cangreburgers
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2923.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Blinky.Bill.el.koala.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2922.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Blancanieves.y.los.Siete.Enanitos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2921.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Bikes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2920.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Big.Hero.6
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2919.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Benji
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2918.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Bebe.Jefazo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2917.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Batman.Mala.Sangre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2916.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Batman.LEGO.la.pelicula.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2915.mkv
+#EXTINF:-1 group-title="--INFANTILES--",BATMAN VS LAS TORTUJAS NINJAS
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2912.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Bambi
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2914.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Ballerina.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2913.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Aviones.Equipo.De.Rescate
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2911.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Atrapa.La.Bandera
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2910.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Asterix.La.residencia.de.los.dioses
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2906.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Asterix.el.Galo.(1967)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2907.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Asterix y la Sorpresa del Cesar (1985)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2905.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Asterix y Cleopatra.1968
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2904.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Astérix y Obélix Contra César
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2909.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Astérix y Obélix  Misión Cleopatra
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2908.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Arthur.Christmas.(Operacion.Regalo)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2903.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Antboy el pequeño gran superheroe
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2902.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Antboy 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2901.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Antboy 2 la venganza de furia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2900.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Annie.2015
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2899.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Animals.United
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2898.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Animales.Fantasticos.Y.Donde.Encontrarlos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2897.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Anastasia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2896.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Alvin.Y.Las.Ardillas.Fiesta.Sobre.Ruedas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2895.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Alvin.Y.Las.Ardillas.3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2894.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Alvin.Y.Las.Ardillas.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2893.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Alvin.Y.Las.Ardillas.1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2892.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Alexander.and.the.Terrible.Horrible
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2891.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Aladdin.1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2890.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Aladdin 2 El retorno de jafar 1994
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2889.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Airbender.El.Ultimo.Guerrero
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2888.mkv
+#EXTINF:-1 group-title="--INFANTILES--",Abulele
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2887.mkv
+#EXTINF:-1 group-title="--INFANTILES--",101 dalmatas mas vivos que nunca
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2885.mkv
+#EXTINF:-1 group-title="--INFANTILES--",101
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/2886.mkv
+#EXTINF:-1 group-title="--INFANTILES--",### SAGAS ###
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/1677.ts
+#EXTINF:-1 group-title="--SAGAS--",Vive Y Deja Morir
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3525.mkv
+#EXTINF:-1 group-title="--SAGAS--",Venganza3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3524.mkv
+#EXTINF:-1 group-title="--SAGAS--",Venganza 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3523.mkv
+#EXTINF:-1 group-title="--SAGAS--",Underworld 5 Guerras de Sangre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3521.mkv
+#EXTINF:-1 group-title="--SAGAS--",Underworld 4 El Despertar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3520.mkv
+#EXTINF:-1 group-title="--SAGAS--",Underworld 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3519.mkv
+#EXTINF:-1 group-title="--SAGAS--",Underworld  2 Evolution
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3518.mkv
+#EXTINF:-1 group-title="--SAGAS--",Underworld
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3522.mkv
+#EXTINF:-1 group-title="--SAGAS--",Transformers 5
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3517.mkv
+#EXTINF:-1 group-title="--SAGAS--",Transformers 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3516.mkv
+#EXTINF:-1 group-title="--SAGAS--",Transformers 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3515.mkv
+#EXTINF:-1 group-title="--SAGAS--",Transformers 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3514.mkv
+#EXTINF:-1 group-title="--SAGAS--",Transformers 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3513.mkv
+#EXTINF:-1 group-title="--SAGAS--",Torrente el brazo tonto de la ley
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3512.mkv
+#EXTINF:-1 group-title="--SAGAS--",Torrente el barzo tonto de la ley
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3511.mkv
+#EXTINF:-1 group-title="--SAGAS--",Torrente 5 Operacion Eurovegas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3510.mkv
+#EXTINF:-1 group-title="--SAGAS--",Torrente 4 Lethal Crisis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3509.mkv
+#EXTINF:-1 group-title="--SAGAS--",Torrente 3 El Protector
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3508.mkv
+#EXTINF:-1 group-title="--SAGAS--",Torrente 2 Mision en Marbella
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3507.mkv
+#EXTINF:-1 group-title="--SAGAS--",Tiburon la venganza (
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3504.mkv
+#EXTINF:-1 group-title="--SAGAS--",Tiburon 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3503.mkv
+#EXTINF:-1 group-title="--SAGAS--",Tiburon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3505.mkv
+#EXTINF:-1 group-title="--SAGAS--",The.Exorcist.III
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3502.mkv
+#EXTINF:-1 group-title="--SAGAS--",The Next Karate Kid
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3498.mkv
+#EXTINF:-1 group-title="--SAGAS--",The karate kid
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3501.mkv
+#EXTINF:-1 group-title="--SAGAS--",The hangover 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3500.mkv
+#EXTINF:-1 group-title="--SAGAS--",The hangover 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3499.mkv
+#EXTINF:-1 group-title="--SAGAS--",Terminator Genesis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3496.mkv
+#EXTINF:-1 group-title="--SAGAS--",Terminator 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3495.mkv
+#EXTINF:-1 group-title="--SAGAS--",Terminator 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3494.mkv
+#EXTINF:-1 group-title="--SAGAS--",Terminator
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3497.mkv
+#EXTINF:-1 group-title="--SAGAS--",Temblores 6 Un día en el infierno
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3492.mkv
+#EXTINF:-1 group-title="--SAGAS--",Temblores 5 El Legado
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3491.mkv
+#EXTINF:-1 group-title="--SAGAS--",Temblores 4 Comienza la Leyenda
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3490.mkv
+#EXTINF:-1 group-title="--SAGAS--",Temblores 3 Regreso a Perfection
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3489.mkv
+#EXTINF:-1 group-title="--SAGAS--",Temblores 2 La respuesta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3488.mkv
+#EXTINF:-1 group-title="--SAGAS--",Temblores
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3493.mkv
+#EXTINF:-1 group-title="--SAGAS--",Taxi 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3487.mkv
+#EXTINF:-1 group-title="--SAGAS--",Taxi 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3486.mkv
+#EXTINF:-1 group-title="--SAGAS--",Taxi 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3485.mkv
+#EXTINF:-1 group-title="--SAGAS--",Taxi 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3484.mkv
+#EXTINF:-1 group-title="--SAGAS--",Taken
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3483.mkv
+#EXTINF:-1 group-title="--SAGAS--",Superdetective en hollywood 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3481.mkv
+#EXTINF:-1 group-title="--SAGAS--",Superdetective en hollywood 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3480.mkv
+#EXTINF:-1 group-title="--SAGAS--",Superdetective en hollywood
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3482.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.9. Insurreccion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3479.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.8.Primer.Contacto
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3478.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.7.La.Proxima.Generacion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3477.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.6.Aquel.Pais.Desconocido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3476.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.5.La.Ultima.Frontera
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3475.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.4.Mision.Salvar.la.Tierra
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3474.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.3.En.busca.de.Spock
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3473.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.2.La.Ira.de.khan
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3472.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.13.Mas.Alla
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3471.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.11.El.Futuro.Comienza
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3470.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.10.Nemesis.m1080p
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3469.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star.Trek.1.La.Pelicula
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3468.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Los ultimos Jedi
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3467.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Episodio VII El despertar de la Fuerza
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3466.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Episodio VI El retorno del Jedi
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3465.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Episodio V El imperio contraataca
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3464.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Episodio IV Una nueva esperanza
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3463.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Episodio III La venganza de los Sith
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3462.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Episodio II El ataque de los clones
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3461.mkv
+#EXTINF:-1 group-title="--SAGAS--",Star Wars Episodio I La amenaza fantasma
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3460.mkv
+#EXTINF:-1 group-title="--SAGAS--",Spectre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3459.mkv
+#EXTINF:-1 group-title="--SAGAS--",Solo se Vive 2 Veces
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3458.mkv
+#EXTINF:-1 group-title="--SAGAS--",Solo Para Sus Ojos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3457.mkv
+#EXTINF:-1 group-title="--SAGAS--",SkyFall
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3456.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scream 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3454.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scream 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3453.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scream 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3452.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scream
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3455.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scary Movie 5
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3450.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scary Movie 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3449.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scary Movie 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3448.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scary Movie 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3447.mkv
+#EXTINF:-1 group-title="--SAGAS--",Scary Movie
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3451.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw 8
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3445.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw 7
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3444.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw 6
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3443.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw 5
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3442.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3441.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3440.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3439.mkv
+#EXTINF:-1 group-title="--SAGAS--",Saw
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3446.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rocky.VI.Balboa.(2006)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3438.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rocky.V.(1990)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3437.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rocky.IIII.(1985)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3436.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rocky.III.(1982)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3435.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rocky.II.(1979)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3434.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rocky.I.(1976)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3433.mkv
+#EXTINF:-1 group-title="--SAGAS--",Robocop.2014
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3431.mkv
+#EXTINF:-1 group-title="--SAGAS--",Robocop.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3430.mkv
+#EXTINF:-1 group-title="--SAGAS--",Robocop
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3432.mkv
+#EXTINF:-1 group-title="--SAGAS--",Riddick
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3429.mkv
+#EXTINF:-1 group-title="--SAGAS--",Reservoir Dogs
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3428.mkv
+#EXTINF:-1 group-title="--SAGAS--",Resacón en Las Vegas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3427.mkv
+#EXTINF:-1 group-title="--SAGAS--",Regreso al Futuro 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3426.mkv
+#EXTINF:-1 group-title="--SAGAS--",Regreso al Futuro 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3425.mkv
+#EXTINF:-1 group-title="--SAGAS--",Regreso al Futuro 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3424.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rambo.III.(1988)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3423.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rambo 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3422.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rambo 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3421.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rambo 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3420.mkv
+#EXTINF:-1 group-title="--SAGAS--",Rambo 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3419.mkv
+#EXTINF:-1 group-title="--SAGAS--",Quantum Of Solace
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3418.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pulp Fiction
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3416.mkv
+#EXTINF:-1 group-title="--SAGAS--",Prometheus
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3415.mkv
+#EXTINF:-1 group-title="--SAGAS--",Predator
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3414.mkv
+#EXTINF:-1 group-title="--SAGAS--",Poltergeist II El otro lado
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3413.mkv
+#EXTINF:-1 group-title="--SAGAS--",Poltergeist Fenómenos extraños
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3412.mkv
+#EXTINF:-1 group-title="--SAGAS--",Poltergeist 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3411.mkv
+#EXTINF:-1 group-title="--SAGAS--",Poltergeist (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3410.mkv
+#EXTINF:-1 group-title="--SAGAS--",Planet Terror
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3409.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pitch Black
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3408.mkv
+#EXTINF:-1 group-title="--SAGAS--",Piratas del Caribe 5  La venganza de Salazar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3407.mkv
+#EXTINF:-1 group-title="--SAGAS--",Piratas Del Caribe 4 En Mareas Misteriosas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3406.mkv
+#EXTINF:-1 group-title="--SAGAS--",Piratas Del Caribe 3 En el Fin del Mundo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3405.mkv
+#EXTINF:-1 group-title="--SAGAS--",Piratas Del Caribe 2 Piratas del Caribe El cofre del Hombre Muerto
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3404.mkv
+#EXTINF:-1 group-title="--SAGAS--",Piratas Del Caribe 1 La maldición de la Perla Negra
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3403.mkv
+#EXTINF:-1 group-title="--SAGAS--",Phantasma IV Apocalipsis
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3401.mkv
+#EXTINF:-1 group-title="--SAGAS--",Phantasma III El pasaje del terror
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3400.mkv
+#EXTINF:-1 group-title="--SAGAS--",Phantasma II El regreso
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3399.mkv
+#EXTINF:-1 group-title="--SAGAS--",Phantasma
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3402.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pesadilla en Elm Street 6La muerte de Freddy
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3398.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pesadilla en Elm Street 5 El niño de los sueños
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3397.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pesadilla en Elm Street 4 El amo del sueño
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3396.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pesadilla en Elm Street 3 Los guerreros del sueño
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3395.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pesadilla en Elm Street 2 La venganza de Freddy
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3394.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pesadilla en Elm Street 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3393.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pesadilla en Elm Street (El origen)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3392.mkv
+#EXTINF:-1 group-title="--SAGAS--",Peligro inminente
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3391.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pánico nuclear
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3417.mkv
+#EXTINF:-1 group-title="--SAGAS--",Panorama para Matar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3390.mkv
+#EXTINF:-1 group-title="--SAGAS--",Pacific Rim: Insurrección
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3389.mkv
+#EXTINF:-1 group-title="--SAGAS--",Operación Trueno
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3388.mkv
+#EXTINF:-1 group-title="--SAGAS--",Octopussy
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3387.mkv
+#EXTINF:-1 group-title="--SAGAS--",Ocean's Twelve
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3386.mkv
+#EXTINF:-1 group-title="--SAGAS--",Ocean's Thirteen
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3385.mkv
+#EXTINF:-1 group-title="--SAGAS--",Ocean's Eleven
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3384.mkv
+#EXTINF:-1 group-title="--SAGAS--",Nunca Digas Nunca Jamás
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3383.mkv
+#EXTINF:-1 group-title="--SAGAS--",Muneco diabolico 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3382.mkv
+#EXTINF:-1 group-title="--SAGAS--",Muneco Diabolico 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3380.mkv
+#EXTINF:-1 group-title="--SAGAS--",Muneco Diabolico
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3381.mkv
+#EXTINF:-1 group-title="--SAGAS--",Muere Otro Día
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3379.mkv
+#EXTINF:-1 group-title="--SAGAS--",Moonraker
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3378.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mision imposible 5 Nacion Secreta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3376.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mision Imposible 4 Protocolo Fantasma
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3375.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mision Imposible 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3374.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mision Imposible 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3373.mkv
+#EXTINF:-1 group-title="--SAGAS--",Misión imposible
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3377.mkv
+#EXTINF:-1 group-title="--SAGAS--",Millennium Los hombres que no amaban a las mujeres
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3372.mkv
+#EXTINF:-1 group-title="--SAGAS--",Millennium 2 La chica quen soñaba con una cerilla y un bidon de gasolina
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3371.mkv
+#EXTINF:-1 group-title="--SAGAS--",Millenium 3 La reina en el palacio de las corrientes de aire
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3370.mkv
+#EXTINF:-1 group-title="--SAGAS--",Men in Black III
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3369.mkv
+#EXTINF:-1 group-title="--SAGAS--",Men in Black II
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3368.mkv
+#EXTINF:-1 group-title="--SAGAS--",Men in Black I
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3367.mkv
+#EXTINF:-1 group-title="--SAGAS--",Matrix Revolutions
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3365.mkv
+#EXTINF:-1 group-title="--SAGAS--",Matrix Reloaded
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3364.mkv
+#EXTINF:-1 group-title="--SAGAS--",Matrix
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3366.mkv
+#EXTINF:-1 group-title="--SAGAS--",Malditos Bastardos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3363.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mad Max Furia en la Carretera
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3361.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mad Max 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3360.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mad Max 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3359.mkv
+#EXTINF:-1 group-title="--SAGAS--",Mad Max
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3362.mkv
+#EXTINF:-1 group-title="--SAGAS--",Luna Nueva
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3358.mkv
+#EXTINF:-1 group-title="--SAGAS--",LosJuegosHambreM1080
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3357.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Padres de Ella
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3353.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Padres de El
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3352.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los juegos del hambre Sinsajo Parte 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3356.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Juegos del Hambre Sinsajo parte 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3351.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los juegos del hambre En llamas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3355.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los descendientes 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3354.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Chicos del Maíz 6 El Regreso de Isaac
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3349.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Chicos del Maíz 5 Los Campos del Terror
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3348.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Chicos del Maíz 4 La Reunión
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3347.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Chicos del Maíz 3 Cosecha Urbana
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3346.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Chicos del Maíz 2 El Sacrificio Final
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3345.mkv
+#EXTINF:-1 group-title="--SAGAS--",Los Chicos del Maíz
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3350.mkv
+#EXTINF:-1 group-title="--SAGAS--",Loca Academia de Policia 7 Mision en Moscu
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3344.mkv
+#EXTINF:-1 group-title="--SAGAS--",Loca Academia de Policia 6 Ciudad Sitiada
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3343.mkv
+#EXTINF:-1 group-title="--SAGAS--",Loca Academia de Policia 5 Operacion Miami Beach
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3342.mkv
+#EXTINF:-1 group-title="--SAGAS--",Loca Academia de Policia 4 Los Ciudadanos se Defienden
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3341.mkv
+#EXTINF:-1 group-title="--SAGAS--",Loca Academia de Policia 3 De Vuelta a la Escuela
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3340.mkv
+#EXTINF:-1 group-title="--SAGAS--",Licencia Para Matar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3339.mkv
+#EXTINF:-1 group-title="--SAGAS--",Las cronocas de Riddick
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3335.mkv
+#EXTINF:-1 group-title="--SAGAS--",Lara.Croft.Tomb.Raider.1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3333.mkv
+#EXTINF:-1 group-title="--SAGAS--",La.Rebelion.de.los.Simios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3332.mkv
+#EXTINF:-1 group-title="--SAGAS--",La.Conquista.del.Planeta.de.los.Simios.
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3331.mkv
+#EXTINF:-1 group-title="--SAGAS--",La semilla de chucky
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3330.mkv
+#EXTINF:-1 group-title="--SAGAS--",La nueva pesadilla de Wes Craven
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3329.mkv
+#EXTINF:-1 group-title="--SAGAS--",La novia de chucky
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3328.mkv
+#EXTINF:-1 group-title="--SAGAS--",La noche de Halloween
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3327.mkv
+#EXTINF:-1 group-title="--SAGAS--",La maldicion de chucky
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3326.mkv
+#EXTINF:-1 group-title="--SAGAS--",La jungla Un buen día para morir
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3324.mkv
+#EXTINF:-1 group-title="--SAGAS--",La jungla de cristal 3 La venganza
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3325.mkv
+#EXTINF:-1 group-title="--SAGAS--",La jungla 4.0
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3323.mkv
+#EXTINF:-1 group-title="--SAGAS--",La jungla 2 Alerta roja
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3322.mkv
+#EXTINF:-1 group-title="--SAGAS--",La Espía Que Me Amó
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3317.mkv
+#EXTINF:-1 group-title="--SAGAS--",La caza del Octubre rojo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3321.mkv
+#EXTINF:-1 group-title="--SAGAS--",Kill Bill Vol. 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3316.mkv
+#EXTINF:-1 group-title="--SAGAS--",Kill Bill Vol. 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3315.mkv
+#EXTINF:-1 group-title="--SAGAS--",Karate kid 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3313.mkv
+#EXTINF:-1 group-title="--SAGAS--",Karate kid 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3312.mkv
+#EXTINF:-1 group-title="--SAGAS--",Karate kid
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3314.mkv
+#EXTINF:-1 group-title="--SAGAS--",Jurassic World El reino caído
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3310.mkv
+#EXTINF:-1 group-title="--SAGAS--",Jurassic World
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3311.mkv
+#EXTINF:-1 group-title="--SAGAS--",Jungla de cristal
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3309.mkv
+#EXTINF:-1 group-title="--SAGAS--",Juego de patriotas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3308.mkv
+#EXTINF:-1 group-title="--SAGAS--",Jason Bourne
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3307.mkv
+#EXTINF:-1 group-title="--SAGAS--",Jackie Brown
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3306.mkv
+#EXTINF:-1 group-title="--SAGAS--",Jack Ryan Operacion sombra
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3305.mkv
+#EXTINF:-1 group-title="--SAGAS--",Indiana.Jones.4.(2008)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3304.mkv
+#EXTINF:-1 group-title="--SAGAS--",Indiana.Jones.3.(1989)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3303.mkv
+#EXTINF:-1 group-title="--SAGAS--",Indiana.Jones.2.(1984)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3302.mkv
+#EXTINF:-1 group-title="--SAGAS--",Indiana.Jones.1.(1981)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3301.mkv
+#EXTINF:-1 group-title="--SAGAS--",Huida.del.planeta.de.los.simios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3300.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.8.Las.Reliquias De.La.Muerte.2.(2011)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3299.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.7.Las.Reliquias.De.La.Muerte.1.(2010)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3298.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.6.El.Misterio.Del.Principe.(2009)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3297.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.5.La.Orden.Del.Fenix.(2007)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3296.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.4.El.Caliz.De.Fuego.(2005)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3295.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.3.Y.El.Prisionero.De.Azkaban.(2004)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3294.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.2.La.Camara.secreta.(2002)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3293.mkv
+#EXTINF:-1 group-title="--SAGAS--",Harry.Potter.1.La.Piedra.Filosofal.(2001)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3292.mkv
+#EXTINF:-1 group-title="--SAGAS--",Han Solo Una Historia De Star Wars
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3291.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween VI La maldicion de Michael Myers
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3290.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween V La venganza de Michael Myers
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3289.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween Resurrection
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3288.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween IV The return of Michael Myers
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3287.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween III Season of the Witch
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3286.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween II Sanguinario
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3285.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween H20
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3284.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween 2 H2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3283.mkv
+#EXTINF:-1 group-title="--SAGAS--",Halloween  El Origen
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3282.mkv
+#EXTINF:-1 group-title="--SAGAS--",Gremlins 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3280.mkv
+#EXTINF:-1 group-title="--SAGAS--",Gremlins
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3281.mkv
+#EXTINF:-1 group-title="--SAGAS--",Goldfinger
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3279.mkv
+#EXTINF:-1 group-title="--SAGAS--",Goldeneye
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3278.mkv
+#EXTINF:-1 group-title="--SAGAS--",Freddy contra Jason
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3277.mkv
+#EXTINF:-1 group-title="--SAGAS--",Four Rooms
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3276.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.Regreso.al.Planeta.de.los.Simios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3274.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.Planeta.de.los.Simios 2001
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3272.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.Planeta.de.los.Simios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3273.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.Origen.del.Planeta.de.los.Simios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3271.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.Exorcista.V.El.comienzo.La.version.prohibida
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3269.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.Exorcista.el.Comienzo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3270.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.Exorcista.2.El.Hereje
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3268.mkv
+#EXTINF:-1 group-title="--SAGAS--",El.amanecer.del.planeta.delos.Simios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3275.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Ultimatum De Bourne
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3258.mkv
+#EXTINF:-1 group-title="--SAGAS--",El señor de los anillos Las dos torres
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3267.mkv
+#EXTINF:-1 group-title="--SAGAS--",El señor de los anillos La comunidad del anillo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3266.mkv
+#EXTINF:-1 group-title="--SAGAS--",El señor de los anillos El retorno del rey
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3265.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Padrino III (1990)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3257.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Padrino II (1974)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3256.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Padrino (1972)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3255.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Mundo Nunca Es Suficiente
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3254.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Mito de Bourne
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3253.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Mañana Nunca Muere
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3252.mkv
+#EXTINF:-1 group-title="--SAGAS--",El legado de Bourne
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3264.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Hombre De La Pistola De Oro
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3251.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Hobbit Un viaje inesperado
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3250.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Hobbit La desolación de Smaug
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3249.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Hobbit La batalla de los cinco ejércitos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3248.mkv
+#EXTINF:-1 group-title="--SAGAS--",El gran tiburon
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3263.mkv
+#EXTINF:-1 group-title="--SAGAS--",El exorcista
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3262.mkv
+#EXTINF:-1 group-title="--SAGAS--",El corredor del laberinto 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3260.mkv
+#EXTINF:-1 group-title="--SAGAS--",El corredor del laberinto 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3259.mkv
+#EXTINF:-1 group-title="--SAGAS--",El corredor del laberinto
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3261.mkv
+#EXTINF:-1 group-title="--SAGAS--",El Caso Bourne
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3247.mkv
+#EXTINF:-1 group-title="--SAGAS--",Eclipse
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3246.mkv
+#EXTINF:-1 group-title="--SAGAS--",Django Desencadenado
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3245.mkv
+#EXTINF:-1 group-title="--SAGAS--",Divergente III Leal
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3244.mkv
+#EXTINF:-1 group-title="--SAGAS--",Diamantes Para La Eternidad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3243.mkv
+#EXTINF:-1 group-title="--SAGAS--",Desde Rusia Con Amor
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3242.mkv
+#EXTINF:-1 group-title="--SAGAS--",Crepúsculo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3240.mkv
+#EXTINF:-1 group-title="--SAGAS--",Creed La leyenda de Rocky
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3239.mkv
+#EXTINF:-1 group-title="--SAGAS--",Creed 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3238.mkv
+#EXTINF:-1 group-title="--SAGAS--",Constantine. City of Demons
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3237.mkv
+#EXTINF:-1 group-title="--SAGAS--",Conan The barbarian
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3234.mkv
+#EXTINF:-1 group-title="--SAGAS--",Conan El guerrero rojo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3233.mkv
+#EXTINF:-1 group-title="--SAGAS--",Conan el destructor
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3236.mkv
+#EXTINF:-1 group-title="--SAGAS--",Conan el Bárbaro
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3235.mkv
+#EXTINF:-1 group-title="--SAGAS--",Casino Royale
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3232.mkv
+#EXTINF:-1 group-title="--SAGAS--",Capitan America El Primer Vengador
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3231.mkv
+#EXTINF:-1 group-title="--SAGAS--",Blade Trinity
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3229.mkv
+#EXTINF:-1 group-title="--SAGAS--",Blade 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3228.mkv
+#EXTINF:-1 group-title="--SAGAS--",Blade
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3230.mkv
+#EXTINF:-1 group-title="--SAGAS--",Avengers Infinity War
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3227.mkv
+#EXTINF:-1 group-title="--SAGAS--",Arma letal 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3225.mkv
+#EXTINF:-1 group-title="--SAGAS--",Arma letal 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3224.mkv
+#EXTINF:-1 group-title="--SAGAS--",Arma letal 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3223.mkv
+#EXTINF:-1 group-title="--SAGAS--",Arma letal
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3226.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie Una Fiesta de Pelotas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3222.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie La Casa Beta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3221.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie El Reencuentro
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3220.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie El Libro del Amor
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3219.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie Bad Camp
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3218.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3217.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3216.mkv
+#EXTINF:-1 group-title="--SAGAS--",American Pie 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3215.mkv
+#EXTINF:-1 group-title="--SAGAS--",Amanecer Parte 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3214.mkv
+#EXTINF:-1 group-title="--SAGAS--",Amanecer Parte 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3213.mkv
+#EXTINF:-1 group-title="--SAGAS--",Alta Tensión
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3212.mkv
+#EXTINF:-1 group-title="--SAGAS--",Aliens Vs Predator 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3211.mkv
+#EXTINF:-1 group-title="--SAGAS--",ALIEN VS PREDATOR
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3201.mkv
+#EXTINF:-1 group-title="--SAGAS--",Alien Resurreccion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3208.mkv
+#EXTINF:-1 group-title="--SAGAS--",Alien el regreso
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3210.mkv
+#EXTINF:-1 group-title="--SAGAS--",Alien el octavo pasajero
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3209.mkv
+#EXTINF:-1 group-title="--SAGAS--",Alien 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3207.mkv
+#EXTINF:-1 group-title="--SAGAS--",Ahora los Padres son Ellos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3206.mkv
+#EXTINF:-1 group-title="--SAGAS--",Agente 007 Contra el Dr. No
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3205.mkv
+#EXTINF:-1 group-title="--SAGAS--",Abierto Hasta El Amanecer 3 La Hija Del Verdugo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3203.mkv
+#EXTINF:-1 group-title="--SAGAS--",Abierto Hasta El Amanecer 2 Texas Blood Money
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3202.mkv
+#EXTINF:-1 group-title="--SAGAS--",Abierto hasta el amanecer
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3204.mkv
+#EXTINF:-1 group-title="--SAGAS--",A todo gas 7
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3199.mkv
+#EXTINF:-1 group-title="--SAGAS--",A todo gas 6
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3198.mkv
+#EXTINF:-1 group-title="--SAGAS--",A todo gas 5
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3197.mkv
+#EXTINF:-1 group-title="--SAGAS--",A todo gas 4 Aún más rápido
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3196.mkv
+#EXTINF:-1 group-title="--SAGAS--",A todo gas 3 Tokyo Race
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3195.mkv
+#EXTINF:-1 group-title="--SAGAS--",A todo gas 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3194.mkv
+#EXTINF:-1 group-title="--SAGAS--",A todo gas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3200.mkv
+#EXTINF:-1 group-title="--SAGAS--",007 Al Servicio Secreto De Su Majestad
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3193.mkv
+#EXTINF:-1 group-title="--SAGAS--",####SUER-HEROES####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/481.ts
+#EXTINF:-1 group-title="--SUPERHEROES--",X-Men.Primera.Generacion.(2011)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3573.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",x-Men.Origenes.Lobezno.(2009)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3576.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",X-Men.Lobezno.Inmortal.(2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3572.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",X-Men.III.La.Decision.Final.(2006)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3571.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",X-Men.II.(2003)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3570.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",X-Men.I.(2000)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3569.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",x-Men.Dias.Del.Futuro.Pasado.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3575.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",X-Men Fenix Oscura
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3568.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Venom
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3567.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Vengadores Endgame
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3566.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Thor 3 Ragnarok
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3565.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",The Dark Knight La Leyenda Renace
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3563.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",The Dark Knight
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3564.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",The Amazing SpiderMan 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3561.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",The Amazing SpiderMan
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3562.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Superman.Returns
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3560.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Superman.4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3559.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Superman.3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3558.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Superman.2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3557.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Superman.1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3556.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Spider-Man Homecoming
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3554.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Spider-Man 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3553.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Spider-Man 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3552.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Spider-Man
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3555.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Shazam
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3551.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Los Vengadores La Era Ultron
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3549.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Los Vengadores
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3550.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",La Liga de la Justicia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3548.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Iron Man 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3547.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Iron Man 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3546.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Iron Man 1
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3545.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Guardianes de la Galaxia Vol. 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3543.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Guardianes de la Galaxia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3544.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Erase una vez Deadpool
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3542.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Elektra
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3541.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",El increíble Hulk
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3540.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",El hombre de acero
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3539.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Doctor Strange
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3538.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Deadpool
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3537.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Capitan America Civil War
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3536.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Batman Versus Superman
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3534.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Batman Returns
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3533.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Batman Forever
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3532.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Batman Begins
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3531.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Batman & Robin
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3530.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Batman
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3535.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Aquamann
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3529.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Aquaman
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3528.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Ant-Man
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3527.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",Ant Man y la Avispa
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3526.mkv
+#EXTINF:-1 group-title="--SUPERHEROES--",#### TERROR ####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/551.ts
+#EXTINF:-1 group-title="--TERROR--",[REC] Apocalypse (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3835.mkv
+#EXTINF:-1 group-title="--TERROR--",Wolfcop
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3834.mkv
+#EXTINF:-1 group-title="--TERROR--",Winchester: La casa que construyeron los espíritus
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3833.mkv
+#EXTINF:-1 group-title="--TERROR--",Winchester
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3832.mkv
+#EXTINF:-1 group-title="--TERROR--",Why Hide
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3831.mkv
+#EXTINF:-1 group-title="--TERROR--",We Are Still Here (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3830.mkv
+#EXTINF:-1 group-title="--TERROR--",Watchtower Dead Rising 2015
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3829.mkv
+#EXTINF:-1 group-title="--TERROR--",Voodoo Possession
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3828.mkv
+#EXTINF:-1 group-title="--TERROR--",Victor Frankenstein (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3827.mkv
+#EXTINF:-1 group-title="--TERROR--",Victor Crowley
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3826.mkv
+#EXTINF:-1 group-title="--TERROR--",Veronica
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3825.mkv
+#EXTINF:-1 group-title="--TERROR--",Venom (2005)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3824.mkv
+#EXTINF:-1 group-title="--TERROR--",Velvet Buzzsaw
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3823.mkv
+#EXTINF:-1 group-title="--TERROR--",Unfriended (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3822.mkv
+#EXTINF:-1 group-title="--TERROR--",Unbroken (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3821.mkv
+#EXTINF:-1 group-title="--TERROR--",Un lugar tranquilo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3820.mkv
+#EXTINF:-1 group-title="--TERROR--",Truth or Dare
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3819.mkv
+#EXTINF:-1 group-title="--TERROR--",Train to Busan (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3818.mkv
+#EXTINF:-1 group-title="--TERROR--",Tonight She Comes
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3817.mkv
+#EXTINF:-1 group-title="--TERROR--",Tokyo Ghoul
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3816.mkv
+#EXTINF:-1 group-title="--TERROR--",Todavia Estamos Aqui 2016
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3815.mkv
+#EXTINF:-1 group-title="--TERROR--",Thir13en Ghosts (2002)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3814.mkv
+#EXTINF:-1 group-title="--TERROR--",The.Purge.La.Noche.De.Las.Bestias
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3813.mkv
+#EXTINF:-1 group-title="--TERROR--",The.Evil.In.Us
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3812.mkv
+#EXTINF:-1 group-title="--TERROR--",The.Canal.(2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3811.mkv
+#EXTINF:-1 group-title="--TERROR--",The Woman in Black 2_ Angel of Death (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3806.mkv
+#EXTINF:-1 group-title="--TERROR--",The Wolfman (2010)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3805.mkv
+#EXTINF:-1 group-title="--TERROR--",The Witch (1954)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3804.mkv
+#EXTINF:-1 group-title="--TERROR--",The Visit (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3803.mkv
+#EXTINF:-1 group-title="--TERROR--",The Veil (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3802.mkv
+#EXTINF:-1 group-title="--TERROR--",The Vatican Tapes (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3801.mkv
+#EXTINF:-1 group-title="--TERROR--",The Sixth Sense (1999)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3800.mkv
+#EXTINF:-1 group-title="--TERROR--",THE RING 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3778.mkv
+#EXTINF:-1 group-title="--TERROR--",The Ring
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3799.mkv
+#EXTINF:-1 group-title="--TERROR--",The ReZort (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3797.mkv
+#EXTINF:-1 group-title="--TERROR--",The Remaining (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3798.mkv
+#EXTINF:-1 group-title="--TERROR--",The Quiet Ones (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3796.mkv
+#EXTINF:-1 group-title="--TERROR--",The Purge_ Election Year (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3795.mkv
+#EXTINF:-1 group-title="--TERROR--",The Purge_ Anarchy (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3794.mkv
+#EXTINF:-1 group-title="--TERROR--",The prodigy
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3810.mkv
+#EXTINF:-1 group-title="--TERROR--",The Other Side of the Door (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3793.mkv
+#EXTINF:-1 group-title="--TERROR--",The nut La monja
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3808.mkv
+#EXTINF:-1 group-title="--TERROR--",The nut
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3809.mkv
+#EXTINF:-1 group-title="--TERROR--",The Neon Demon (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3792.mkv
+#EXTINF:-1 group-title="--TERROR--",The nanny
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3807.mkv
+#EXTINF:-1 group-title="--TERROR--",The Last Will and Testament of Rosalind Leigh (2012)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3791.mkv
+#EXTINF:-1 group-title="--TERROR--",The House on Pine Street (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3790.mkv
+#EXTINF:-1 group-title="--TERROR--",The Gallows (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3789.mkv
+#EXTINF:-1 group-title="--TERROR--",The Final Destination (2009)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3788.mkv
+#EXTINF:-1 group-title="--TERROR--",The Exorcism of Molly Hartley (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3787.mkv
+#EXTINF:-1 group-title="--TERROR--",The Day of the Beast (1998)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3786.mkv
+#EXTINF:-1 group-title="--TERROR--",The Darkness (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3785.mkv
+#EXTINF:-1 group-title="--TERROR--",The Darkest Dawn
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3784.mkv
+#EXTINF:-1 group-title="--TERROR--",The Dark
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3783.mkv
+#EXTINF:-1 group-title="--TERROR--",The Crucifixion
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3782.mkv
+#EXTINF:-1 group-title="--TERROR--",The Covenant
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3781.mkv
+#EXTINF:-1 group-title="--TERROR--",The Burning Dead (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3780.mkv
+#EXTINF:-1 group-title="--TERROR--",Territorio Grizzly Elitetorrent Net
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3779.mkv
+#EXTINF:-1 group-title="--TERROR--",Summer Camp (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3777.mkv
+#EXTINF:-1 group-title="--TERROR--",Stigmata (1999)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3776.mkv
+#EXTINF:-1 group-title="--TERROR--",Somnia Dentro De Tus Sueños
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3775.mkv
+#EXTINF:-1 group-title="--TERROR--",Snakehead Swamp (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3774.mkv
+#EXTINF:-1 group-title="--TERROR--",Slenderman
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3773.mkv
+#EXTINF:-1 group-title="--TERROR--",Sinister 2 (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3772.mkv
+#EXTINF:-1 group-title="--TERROR--",Shrew's Nest (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3771.mkv
+#EXTINF:-1 group-title="--TERROR--",Sharknado_ Que la 4ª te acompane (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3770.mkv
+#EXTINF:-1 group-title="--TERROR--",Sharknado.5
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3769.mkv
+#EXTINF:-1 group-title="--TERROR--",Secretas.Intenciones
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3768.mkv
+#EXTINF:-1 group-title="--TERROR--",Scouts Guide to the Zombie Apocalypse (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3767.mkv
+#EXTINF:-1 group-title="--TERROR--",Saw.VIII
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3766.mkv
+#EXTINF:-1 group-title="--TERROR--",Saw VIII
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3765.mkv
+#EXTINF:-1 group-title="--TERROR--",Satanic (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3764.mkv
+#EXTINF:-1 group-title="--TERROR--",Robert Reborn
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3763.mkv
+#EXTINF:-1 group-title="--TERROR--",Rings (2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3762.mkv
+#EXTINF:-1 group-title="--TERROR--",Resident Evil_ Retribution (2012)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3761.mkv
+#EXTINF:-1 group-title="--TERROR--",Resident Evil_ La maldicion (2012)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3760.mkv
+#EXTINF:-1 group-title="--TERROR--",Resident Evil_ Extinction (2007)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3759.mkv
+#EXTINF:-1 group-title="--TERROR--",Resident Evil_ Apocalypse (2004)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3758.mkv
+#EXTINF:-1 group-title="--TERROR--",Resident Evil_ Afterlife (2010)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3757.mkv
+#EXTINF:-1 group-title="--TERROR--",Regression (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3756.mkv
+#EXTINF:-1 group-title="--TERROR--",Re-Animator
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3755.mkv
+#EXTINF:-1 group-title="--TERROR--",Rastro De Sangre
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3754.mkv
+#EXTINF:-1 group-title="--TERROR--",Prevenge
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3753.mkv
+#EXTINF:-1 group-title="--TERROR--",Poseído
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3752.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Movie (2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3751.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Activity_ The Marked Ones (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3750.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Activity_ The Ghost Dimension (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3749.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Activity 5
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3747.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Activity 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3746.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Activity 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3745.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Activity 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3744.mkv
+#EXTINF:-1 group-title="--TERROR--",Paranormal Activity
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3748.mkv
+#EXTINF:-1 group-title="--TERROR--",Pactar Con El Diablo [HDrip][spanish][www.lokotorrents.com]
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3743.mkv
+#EXTINF:-1 group-title="--TERROR--",Paciente cero
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3742.mkv
+#EXTINF:-1 group-title="--TERROR--",Our Evil (Mal Nosso)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3741.mkv
+#EXTINF:-1 group-title="--TERROR--",Ouija_ Origin of Evil (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3740.mkv
+#EXTINF:-1 group-title="--TERROR--",Ouija (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3739.mkv
+#EXTINF:-1 group-title="--TERROR--",Open Water 3 Inmersión extrema
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3738.mkv
+#EXTINF:-1 group-title="--TERROR--",Nosotros
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3737.mkv
+#EXTINF:-1 group-title="--TERROR--",Noctem
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3736.mkv
+#EXTINF:-1 group-title="--TERROR--",No dormiras
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3735.mkv
+#EXTINF:-1 group-title="--TERROR--",No dejes de mirar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3734.mkv
+#EXTINF:-1 group-title="--TERROR--",Neron
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3733.mkv
+#EXTINF:-1 group-title="--TERROR--",Nadie Conoce A Nadie
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3732.mkv
+#EXTINF:-1 group-title="--TERROR--",Musa
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3731.mkv
+#EXTINF:-1 group-title="--TERROR--",Morgan
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3730.mkv
+#EXTINF:-1 group-title="--TERROR--",Mommy (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3729.mkv
+#EXTINF:-1 group-title="--TERROR--",Meteletsa Winter of the Dead
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3728.mkv
+#EXTINF:-1 group-title="--TERROR--",Melanie.The.Girl.With.All.the.Gifts
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3727.mkv
+#EXTINF:-1 group-title="--TERROR--",Matar a dios
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3726.mkv
+#EXTINF:-1 group-title="--TERROR--",Mandy
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3725.mkv
+#EXTINF:-1 group-title="--TERROR--",MAMA
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3723.mkv
+#EXTINF:-1 group-title="--TERROR--",Maggie (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3724.mkv
+#EXTINF:-1 group-title="--TERROR--",Los.Ojos.De.Julia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3722.mkv
+#EXTINF:-1 group-title="--TERROR--",Los olvidados de Phoenix
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3721.mkv
+#EXTINF:-1 group-title="--TERROR--",Los inquilinos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3720.mkv
+#EXTINF:-1 group-title="--TERROR--",los hambrientos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3836.mkv
+#EXTINF:-1 group-title="--TERROR--",Los extraños Caceria Nocturna
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3718.mkv
+#EXTINF:-1 group-title="--TERROR--",Los extraños
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3719.mkv
+#EXTINF:-1 group-title="--TERROR--",Lone Survivor (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3717.mkv
+#EXTINF:-1 group-title="--TERROR--",Lo que la verdad esconde (DVDRip) (EliteTorrent.net)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3716.mkv
+#EXTINF:-1 group-title="--TERROR--",Lights Out (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3715.mkv
+#EXTINF:-1 group-title="--TERROR--",Leviathan (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3714.mkv
+#EXTINF:-1 group-title="--TERROR--",Lemon.Tree.Passage
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3713.mkv
+#EXTINF:-1 group-title="--TERROR--",Leatherface
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3712.mkv
+#EXTINF:-1 group-title="--TERROR--",Lavender.HDRip.Anonymous_xxx
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3711.mkv
+#EXTINF:-1 group-title="--TERROR--",Las.Vidas.De.Louis.Drax
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3710.mkv
+#EXTINF:-1 group-title="--TERROR--",Land of the Dead (2005)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3709.mkv
+#EXTINF:-1 group-title="--TERROR--",Lake Bodom (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3708.mkv
+#EXTINF:-1 group-title="--TERROR--",La.Tumba.Del.Diablo.(2009)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3706.mkv
+#EXTINF:-1 group-title="--TERROR--",La.hora.de.la.venganza.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3707.mkv
+#EXTINF:-1 group-title="--TERROR--",La.Caba�a.En.El.Bosque
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3705.mkv
+#EXTINF:-1 group-title="--TERROR--",La Zona Muerta
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3693.mkv
+#EXTINF:-1 group-title="--TERROR--",La primera purga
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3704.mkv
+#EXTINF:-1 group-title="--TERROR--",La novia de Re-Animator
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3703.mkv
+#EXTINF:-1 group-title="--TERROR--",La noche devora el mundo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3702.mkv
+#EXTINF:-1 group-title="--TERROR--",La nina de la mina (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3701.mkv
+#EXTINF:-1 group-title="--TERROR--",La monja
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3700.mkv
+#EXTINF:-1 group-title="--TERROR--",LA MALDICION
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3690.mkv
+#EXTINF:-1 group-title="--TERROR--",La llorona
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3699.mkv
+#EXTINF:-1 group-title="--TERROR--",La invitacion (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3698.mkv
+#EXTINF:-1 group-title="--TERROR--",La Furia
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3692.mkv
+#EXTINF:-1 group-title="--TERROR--",La enviada del mal
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3697.mkv
+#EXTINF:-1 group-title="--TERROR--",La Cumbre Escarlata (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3691.mkv
+#EXTINF:-1 group-title="--TERROR--",La casa del panico (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3696.mkv
+#EXTINF:-1 group-title="--TERROR--",La bruja de blair
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3695.mkv
+#EXTINF:-1 group-title="--TERROR--",La autopsia de Jane Doe (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3694.mkv
+#EXTINF:-1 group-title="--TERROR--",Krampus (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3689.mkv
+#EXTINF:-1 group-title="--TERROR--",June (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3688.mkv
+#EXTINF:-1 group-title="--TERROR--",Joy Ride 3 (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3687.mkv
+#EXTINF:-1 group-title="--TERROR--",Joker Poltergeist (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3686.mkv
+#EXTINF:-1 group-title="--TERROR--",Jeepers Creepers (2001)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3685.mkv
+#EXTINF:-1 group-title="--TERROR--",Jacob's Ladder (1990)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3684.mkv
+#EXTINF:-1 group-title="--TERROR--",IT (2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3672.mkv
+#EXTINF:-1 group-title="--TERROR--",It
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3683.mkv
+#EXTINF:-1 group-title="--TERROR--",Insidious_ Chapter 3 (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3682.mkv
+#EXTINF:-1 group-title="--TERROR--",Insidious: La última llave
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3681.mkv
+#EXTINF:-1 group-title="--TERROR--",Insidious La ultima llave 
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3679.mkv
+#EXTINF:-1 group-title="--TERROR--",Insidious Capitulo 3
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3678.mkv
+#EXTINF:-1 group-title="--TERROR--",Insidious 3 La ultima llave
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3677.mkv
+#EXTINF:-1 group-title="--TERROR--",INSIDIOUS 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3671.mkv
+#EXTINF:-1 group-title="--TERROR--",Insidious
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3680.mkv
+#EXTINF:-1 group-title="--TERROR--",Inside.(2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3676.mkv
+#EXTINF:-1 group-title="--TERROR--",Incarnate (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3675.mkv
+#EXTINF:-1 group-title="--TERROR--",In Darkness We Fall (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3674.mkv
+#EXTINF:-1 group-title="--TERROR--",Identidades.Opuestas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3673.mkv
+#EXTINF:-1 group-title="--TERROR--",I.Am.Not.A.Serial.Killer.(2017)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3670.mkv
+#EXTINF:-1 group-title="--TERROR--",Hush (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3669.mkv
+#EXTINF:-1 group-title="--TERROR--",Hungerford
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3668.mkv
+#EXTINF:-1 group-title="--TERROR--",Howl (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3667.mkv
+#EXTINF:-1 group-title="--TERROR--",Hostel_ Part III (2011)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3666.mkv
+#EXTINF:-1 group-title="--TERROR--",Honeymoon (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3665.mkv
+#EXTINF:-1 group-title="--TERROR--",Home 2014
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3664.mkv
+#EXTINF:-1 group-title="--TERROR--",Historias de fantasmas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3663.mkv
+#EXTINF:-1 group-title="--TERROR--",Hereditary
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3662.mkv
+#EXTINF:-1 group-title="--TERROR--",Hell Fest
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3661.mkv
+#EXTINF:-1 group-title="--TERROR--",Haunted
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3660.mkv
+#EXTINF:-1 group-title="--TERROR--",Green Room (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3659.mkv
+#EXTINF:-1 group-title="--TERROR--",Grave Halloween (2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3658.mkv
+#EXTINF:-1 group-title="--TERROR--",Forbidden Kingdom (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3657.mkv
+#EXTINF:-1 group-title="--TERROR--",Final Destination 5 (2011)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3656.mkv
+#EXTINF:-1 group-title="--TERROR--",Final Destination 3 (2006)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3655.mkv
+#EXTINF:-1 group-title="--TERROR--",Final Destination 2 (2003)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3654.mkv
+#EXTINF:-1 group-title="--TERROR--",Final Destination (2000)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3653.mkv
+#EXTINF:-1 group-title="--TERROR--",Feliz día de tu muerte 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3651.mkv
+#EXTINF:-1 group-title="--TERROR--",Feliz día de tu muerte
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3652.mkv
+#EXTINF:-1 group-title="--TERROR--",Feedback
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3650.mkv
+#EXTINF:-1 group-title="--TERROR--",Fear Clinic (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3649.mkv
+#EXTINF:-1 group-title="--TERROR--",Extinction (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3648.mkv
+#EXTINF:-1 group-title="--TERROR--",Expediente Warren: El Caso Enfield (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3647.mkv
+#EXTINF:-1 group-title="--TERROR--",Expediente Warren (2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3646.mkv
+#EXTINF:-1 group-title="--TERROR--",Están Vivo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3645.mkv
+#EXTINF:-1 group-title="--TERROR--",Escape Room
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3644.mkv
+#EXTINF:-1 group-title="--TERROR--",ERREMENTARI: EL HERRERO Y EL DIABLO
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3630.mkv
+#EXTINF:-1 group-title="--TERROR--",Eliminado Dark Web
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3643.mkv
+#EXTINF:-1 group-title="--TERROR--",El.Templo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3642.mkv
+#EXTINF:-1 group-title="--TERROR--",El.Cuerpo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3641.mkv
+#EXTINF:-1 group-title="--TERROR--",El.Barbero.Diabolico.De.La.Calle.Fleet
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3640.mkv
+#EXTINF:-1 group-title="--TERROR--",El secreto de Marrowbone
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3639.mkv
+#EXTINF:-1 group-title="--TERROR--",El planeta de los tiburones (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3638.mkv
+#EXTINF:-1 group-title="--TERROR--",El juego del asesino
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3637.mkv
+#EXTINF:-1 group-title="--TERROR--",El infinito
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3636.mkv
+#EXTINF:-1 group-title="--TERROR--",El Hijo
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3633.mkv
+#EXTINF:-1 group-title="--TERROR--",EL GRITO
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3629.mkv
+#EXTINF:-1 group-title="--TERROR--",El exorcismo de Anna Ecklund (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3635.mkv
+#EXTINF:-1 group-title="--TERROR--",El Cabo Del Miedo (1991)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3632.mkv
+#EXTINF:-1 group-title="--TERROR--",El Bosque De Los Suicidios (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3631.mkv
+#EXTINF:-1 group-title="--TERROR--",El apostol
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3634.mkv
+#EXTINF:-1 group-title="--TERROR--",Don't Kill It (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3628.mkv
+#EXTINF:-1 group-title="--TERROR--",Dominios oscuros
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3627.mkv
+#EXTINF:-1 group-title="--TERROR--",Devil's Due (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3626.mkv
+#EXTINF:-1 group-title="--TERROR--",Dejame.Salir
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3625.mkv
+#EXTINF:-1 group-title="--TERROR--",Deep Blue Sea 2
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3624.mkv
+#EXTINF:-1 group-title="--TERROR--",Deep 
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3623.mkv
+#EXTINF:-1 group-title="--TERROR--",DeadHeads (2011)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3622.mkv
+#EXTINF:-1 group-title="--TERROR--",Dead.Rising.Endgame.(2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3621.mkv
+#EXTINF:-1 group-title="--TERROR--",Dead Snow 2 Zombis Nazis 2 2014
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3620.mkv
+#EXTINF:-1 group-title="--TERROR--",Dead Night
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3619.mkv
+#EXTINF:-1 group-title="--TERROR--",Dead Man Down 2013
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3618.mkv
+#EXTINF:-1 group-title="--TERROR--",Dead 7 (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3617.mkv
+#EXTINF:-1 group-title="--TERROR--",Day of the Dead Bloodline
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3616.mkv
+#EXTINF:-1 group-title="--TERROR--",Dark Was the Night
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3615.mkv
+#EXTINF:-1 group-title="--TERROR--",Curve (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3614.mkv
+#EXTINF:-1 group-title="--TERROR--",Cult.of.Chucky.2017
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3613.mkv
+#EXTINF:-1 group-title="--TERROR--",Cuidado con los extranos
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3611.mkv
+#EXTINF:-1 group-title="--TERROR--",Cuidado con los extraños
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3612.mkv
+#EXTINF:-1 group-title="--TERROR--",Critters ¡Al ataque!
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3610.mkv
+#EXTINF:-1 group-title="--TERROR--",Creepshow
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3609.mkv
+#EXTINF:-1 group-title="--TERROR--",Colegas en El Bosque 4
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3608.mkv
+#EXTINF:-1 group-title="--TERROR--",Clown [BluRayRIP][AC3 5.1 Español Catellano][www.tvsinpagar.com]
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3607.mkv
+#EXTINF:-1 group-title="--TERROR--",Clown DVDRip
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3606.mkv
+#EXTINF:-1 group-title="--TERROR--",Cementerio de animales
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3605.mkv
+#EXTINF:-1 group-title="--TERROR--",Cell 213 (2011)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3604.mkv
+#EXTINF:-1 group-title="--TERROR--",Cell (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3603.mkv
+#EXTINF:-1 group-title="--TERROR--",Carretera al infierno
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3602.mkv
+#EXTINF:-1 group-title="--TERROR--",Cannibal (2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3601.mkv
+#EXTINF:-1 group-title="--TERROR--",Cam
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3600.mkv
+#EXTINF:-1 group-title="--TERROR--",Cadaver
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3599.mkv
+#EXTINF:-1 group-title="--TERROR--",Byzantium (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3598.mkv
+#EXTINF:-1 group-title="--TERROR--",Bunnyman.Vengeance
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3597.mkv
+#EXTINF:-1 group-title="--TERROR--",Bunny the Killer Thing (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3596.mkv
+#EXTINF:-1 group-title="--TERROR--",Brawl in Cell Block 99
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3595.mkv
+#EXTINF:-1 group-title="--TERROR--",Bosque maldito
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3594.mkv
+#EXTINF:-1 group-title="--TERROR--",Bloodsucking Bastards (2015)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3593.mkv
+#EXTINF:-1 group-title="--TERROR--",Blanco perfecto (Downrange)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3592.mkv
+#EXTINF:-1 group-title="--TERROR--",Blair Witch (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3591.mkv
+#EXTINF:-1 group-title="--TERROR--",Blackwood
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3590.mkv
+#EXTINF:-1 group-title="--TERROR--",Bastard
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3589.mkv
+#EXTINF:-1 group-title="--TERROR--",Asi En La Tierra Como En El Cielo (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3588.mkv
+#EXTINF:-1 group-title="--TERROR--",Another Wolfcop
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3587.mkv
+#EXTINF:-1 group-title="--TERROR--",Annabelle.2.Creation
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3586.mkv
+#EXTINF:-1 group-title="--TERROR--",Annabelle (2014)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3585.mkv
+#EXTINF:-1 group-title="--TERROR--",Amityville El despertar
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3584.mkv
+#EXTINF:-1 group-title="--TERROR--",All Hallows' Eve (2013)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3583.mkv
+#EXTINF:-1 group-title="--TERROR--",30 Dias De Oscuridad (2007)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3582.mkv
+#EXTINF:-1 group-title="--TERROR--",28 SEMANAS DESPUES
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3581.mkv
+#EXTINF:-1 group-title="--TERROR--",28 DIAS DESPUES
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3580.mkv
+#EXTINF:-1 group-title="--TERROR--",2001 MANIACOS
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3579.mkv
+#EXTINF:-1 group-title="--TERROR--", más mentes peligrosas
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3578.mkv
+#EXTINF:-1 group-title="--TERROR--",10 Cloverfield Lane (2016)
+http://oneyone.eu:16004/movie/Botica/KkCCL2tdms/3577.mkv
+#EXTINF:-1 group-title="--TERROR--",####-4K-#####
+http://oneyone.eu:16004/live/Botica/KkCCL2tdms/503.ts
